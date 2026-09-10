@@ -1,0 +1,45 @@
+commit 3a2db4558777be78f47d3098f45f52b24d59da04
+Merge: 911eb9a 8a63438
+Author: Eldai Galindo <egalin22@calstatela.edu>
+Date:   Thu Sep 10 14:20:37 2026 -0700
+
+    reslove merge conflict
+
+commit 8a6343827499426dab8cdeba2b2453567ef92258
+Author: Eldai Galindo <egalin22@calstatela.edu>
+Date:   Thu Sep 10 14:16:31 2026 -0700
+
+    ADD favorite movie
+
+commit 911eb9a42e70c04c560ba95f0362b39dde2b1da2
+Author: Eldai Galindo <egalin22@calstatela.edu>
+Date:   Thu Sep 10 14:10:07 2026 -0700
+
+    ADD favorite food
+
+commit cacf2b72d3401c3a282e1e9a65ac128f5dee0880
+Author: Eldai Galindo <egalin22@calstatela.edu>
+Date:   Thu Sep 10 14:06:46 2026 -0700
+
+    ADD README
+
+commit ffc8de54bcee2033492504e2cadff6b983934363
+Merge: 1d2bfc0 a102abb
+Author: Eldai Galindo <egalin22@calstatela.edu>
+Date:   Thu Sep 10 14:00:47 2026 -0700
+
+    Merge pull request #1 from egalin22/info-fill
+    
+    Filled in the blanks in index.html
+
+commit a102abbcf56556155fcdb9c6feb65e601284217e
+Author: Eldai Galindo <egalin22@calstatela.edu>
+Date:   Thu Sep 10 13:31:52 2026 -0700
+
+    Filled in the blanks in index.html
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
